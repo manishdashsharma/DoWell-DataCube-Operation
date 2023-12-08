@@ -1,8 +1,6 @@
 # DoWell-DataCube-Operation
 Repository showcasing the implementation of the DoWell DataCube API service as a class-based code.
 
-Absolutely, here's the content in Markdown format suitable for GitHub documentation:
-
 ---
 
 ## DataCubeServices Usage Guide
